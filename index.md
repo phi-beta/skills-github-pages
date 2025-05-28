@@ -2,7 +2,7 @@
 title: Welcome to my blog!
 ---
 
-#Oooga Booga
+# Oooga Booga
 
 sdf
 sdf
